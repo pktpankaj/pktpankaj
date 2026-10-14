@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pankaj Thakur — Growth, GTM and Commercial Strategy](banner.svg)
+![Pankaj Thakur — Growth, GTM and Commercial Strategy](banner.svg?v=2)
 
 **Head of Growth · AI-native GTM · Product Marketing · Commercial Operations**
 
