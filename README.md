@@ -1,7 +1,6 @@
 <div align="center">
 
-# Pankaj Thakur
-### Growth · Automation · Digital Products
+![Pankaj Thakur — Growth, Automation and Digital Products](banner.svg)
 
 **B2B SaaS demand generation | AI workflows | Marketing operations**
 
