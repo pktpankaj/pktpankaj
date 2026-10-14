@@ -1,61 +1,91 @@
 <div align="center">
 
-![Pankaj Thakur — Growth, GTM and Commercial Strategy](banner.svg?v=2)
+# Pankaj Thakur
+### Marketing Operations Leader & AI Automation Engineer
 
-**Head of Growth · AI-native GTM · Product Marketing · Commercial Operations**
+**GTM & RevOps · CRM Architecture · Lifecycle Systems · AI Agents**
 
-B2B SaaS · AI · Workforce Management · Global Mobility · TravelTech
+15 years across B2B SaaS, AI, Workforce Management, Global Mobility and TravelTech
 
-[Connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/) · Paris, France
+[Wionsulting](https://www.wionsulting.com/) · [LinkedIn](https://www.linkedin.com/in/pankajvnt/) · Paris, France
 
 </div>
 
 ---
 
-I’m a marketing and growth leader with 15 years of experience building commercial functions, launching products, and growing revenue. I work closely with founders and leadership teams across Product, Sales, Marketing, and Customer Success, often as the first person putting the commercial function in place.
+I build the systems that connect marketing activity to revenue: the tools, data, workflows, measurement and operating habits behind acquisition, sales handovers and customer growth. My work combines commercial leadership with hands-on implementation, bringing Product, Marketing, Sales and Customer Success around the same priorities.
 
-My work spans go-to-market strategy, product positioning, pricing and packaging, customer acquisition, partnerships, sales enablement, and AI-assisted workflows. I’m interested in understanding where growth slows and turning that understanding into practical changes that make a business easier to buy from and easier to scale.
+Over 15 years, I’ve built commercial functions from the ground up, led international growth, reshaped pricing and positioning, and introduced AI into marketing, support and internal operations. Through Wionsulting, I bring that experience into connected GTM, revenue operations and AI automation work.
 
-## Current work
+## Marketing operations leadership
 
-**Head of Growth — mypaperwork.ai | September 2026–present**  
-Leading B2B growth across European markets in immigration tech, global mobility, and relocation management. My work includes outbound acquisition, HubSpot infrastructure, sales performance dashboards, sales enablement, and adapting GTM messaging and outreach to local markets. I also scope AI workflows for lead scoring, enrichment, outbound, and pipeline tracking.
+My scope brings together the responsibilities of a VP of Marketing Operations with practical systems delivery:
 
-## Selected experience
-
-| Role | What I worked on |
+| Area | What I take responsibility for |
 | --- | --- |
-| **Head of Marketing · Wello Solutions** — Nov 2023–Sept 2026 | Built the marketing function for a B2B workforce management SaaS business. Led a complete rebrand, product messaging, pricing and packaging, and multilingual demand generation across eight languages. Introduced AI across marketing, support, and internal workflows. |
-| **Chief of Staff, CEO Office · Predictive AI** — Freelance, May–Aug 2026 | Advised the CEO on GTM and product strategy, coordinating positioning and launch communications across three AI product lines covering video analysis, model protection, and 3D asset reconstruction. |
-| **Head of Growth · freihandlabor** — Jun 2021–Aug 2023 | Worked with founders on positioning, pricing, product-led growth, and launches across SaaS and digital products, including CuddlyNest, Assista.io, Headlessforms, and Easy User Test. |
-| **Co-Founder · SkyZeg** — Jun 2020–May 2021 | Took a TravelTech business from concept to launch, developing its business model, GTM approach, and B2B/B2C acquisition strategy. |
-| **Global Sales & Marketing Director · Parallels and Meridians** — Aug 2015–Mar 2020 | Built sales and marketing from the first commercial hire to a global function, supporting an international sales team of 12 through acquisition, partnerships, reporting, and playbooks. |
-| **Performance Marketing Manager · Travel World Experiences** — Apr 2012–Jul 2015 | Built the website, CRM, paid acquisition, email, SEO, and content as the first marketing hire, serving UK and francophone markets. |
+| **Strategy & operating model** | Set priorities, connect marketing plans to commercial goals, define ownership and build the team and processes to deliver. |
+| **MarTech architecture** | Audit tools and costs; connect websites, forms, CRM, advertising, email and customer data; remove overlap and broken handovers. |
+| **Lead & lifecycle operations** | Define scoring, qualification, routing, response times, nurture, onboarding and renewal workflows with Sales and Customer Success. |
+| **Measurement & reporting** | Create shared funnel definitions, tracking plans and dashboards covering spend, source, conversion, pipeline and revenue. |
+| **Data quality & governance** | Establish field definitions, ownership, deduplication rules, consent records and controls for dependable customer data. |
+| **Campaign operations & enablement** | Build briefs, launch checklists, reporting routines, documentation and training so teams can execute consistently. |
 
-## A few results
+## AI automation engineering
 
-- **10× organic traffic growth at CuddlyNest** through technical SEO, website optimisation, and content strategy.
-- **Conversion rates increased from 6% to 23% at Parallels and Meridians** through funnel redesign, better lead qualification, and closer alignment between marketing and sales.
-- **Supported annual revenue growth beyond €5M at Parallels and Meridians** through international expansion, demand generation, and partnerships.
-- **135% of lead target and 117% of sales opportunity target at Travel World Experiences**, alongside 24% MQL-to-sales-opportunity conversion and 6×–7× ROAS.
+I design AI workflows around a defined business task, the data it needs and the tools it may use. The aim is completed work that teams can trust, with explicit limits and a person ready to intervene.
 
-## Tools I work with
+- **GTM workflows:** account research, ICP matching, enrichment, buying-signal monitoring, prioritisation, outreach preparation and CRM updates.
+- **Agents & integrations:** connect models to CRM, documents and business tools through APIs, MCP and workflow orchestration; set approval steps and clear completion criteria.
+- **Knowledge & retrieval:** structure business context, index documents and design retrieval around relevant sources. Work includes shared definitions, entity resolution, embeddings, knowledge graphs and RAG/GraphRAG where the use case calls for them.
+- **Customer & internal operations:** enquiry triage, support drafts, meeting briefs, content reuse, document extraction and recurring performance summaries.
+- **Evaluation & monitoring:** test representative cases; track task completion, errors, human escalations, time saved and cost per task; keep logs and usage limits.
+- **Adoption:** document the workflow, train the team and measure whether the automation improves the work after launch.
 
-**CRM & customer journeys:** HubSpot · Pipedrive · Intercom · Customer.io · Brevo · Mailchimp  
-**Acquisition & research:** Google Ads · GA4 · SEMrush · Ahrefs · Apollo.io · Snitcher · Leadinfo  
-**AI & automation:** ChatGPT · Claude · Zapier · Make · AI-assisted workflows  
-**Analytics & collaboration:** LogRocket · Datadog · InnerTrends · Jira · Confluence · ClickUp · Notion · Slack · Discord
+## Systems I work across
 
-## How I approach growth
+| Layer | Selected tools and technologies |
+| --- | --- |
+| CRM & lifecycle | HubSpot · Pipedrive · Customer.io · Brevo · Intercom |
+| GTM data & prospecting | Apollo · Clay · Snitcher · LinkedIn Sales Navigator |
+| Workflow automation | n8n · Make · Zapier |
+| AI & tool connectivity | OpenAI API · Anthropic API · ChatGPT · Claude · MCP |
+| Agent & retrieval architecture | LangGraph · LlamaIndex · Supabase · pgvector · Pinecone · Neo4j · Langfuse |
+| Measurement & collaboration | GA4 · Google Tag Manager · Looker Studio · Notion · Jira · Confluence · Slack |
 
-Sustainable growth rarely comes from a single campaign or channel. I focus on solving the right business problems, removing friction from the customer journey, and building commercial systems that keep delivering as the company grows. Marketing is part of that wider commercial work, connected to product decisions, sales conversations, and customer experience.
+The stack follows the problem. I start with the tools a team already uses and add technology when it improves reliability, saves time or fills a specific gap.
 
-## Learning & background
+## Selected commercial results
 
-MBA, Symbiosis University · B.Sc. in Information Technology, Sikkim Manipal University · Growth Tribe training in AI literacy, growth marketing, and business analytics. Additional studies include European studies, applied Scrum, product design, machine learning, and blockchain.
+- **10× organic traffic growth at CuddlyNest** through technical SEO, website optimisation and content strategy.
+- **Conversion increased from 6% to 23% at Parallels and Meridians** through funnel redesign, lead qualification and closer marketing–sales alignment.
+- **Supported annual revenue growth beyond €5M at Parallels and Meridians** through international expansion, demand generation and partnerships.
+- **135% of lead target, 117% of sales opportunity target and 6×–7× ROAS at Travel World Experiences.**
+
+## Career experience
+
+| Role | Scope |
+| --- | --- |
+| **Head of Growth · mypaperwork.ai** — Sept 2026–present | European B2B growth in global mobility and immigration tech; outbound, HubSpot infrastructure, sales dashboards, enablement and AI workflow scoping. |
+| **Head of Marketing · Wello Solutions** — Nov 2023–Sept 2026 | Built the marketing function; led rebranding, pricing and packaging, eight-language demand generation, and AI adoption across marketing, support and internal operations. |
+| **Chief of Staff, CEO Office · Predictive AI** — Freelance, May–Aug 2026 | GTM and product strategy with the CEO; positioning and launch communications across three AI product lines. |
+| **Head of Growth · freihandlabor** — Jun 2021–Aug 2023 | Founder collaboration on SaaS positioning, pricing, product-led growth and launches, including CuddlyNest, Assista.io, Headlessforms and Easy User Test. |
+| **Co-Founder · SkyZeg** — Jun 2020–May 2021 | TravelTech concept-to-launch work, business model, product validation and B2B/B2C acquisition. |
+| **Global Sales & Marketing Director · Parallels and Meridians** — Aug 2015–Mar 2020 | Built the commercial function and supported an international sales team of 12 with acquisition, partnerships, reporting and playbooks. |
+| **Performance Marketing Manager · Travel World Experiences** — Apr 2012–Jul 2015 | First marketing hire; built website, CRM, paid acquisition, email, SEO and content for UK and francophone markets. |
+
+## How I work
+
+Understand the business and its bottlenecks first. Agree what success looks like, build with the people who will use the system, then measure and improve it. I care about adoption, data quality and commercial results as much as the workflow itself.
+
+For AI, autonomy grows with demonstrated reliability: suggestions first, approved actions next, then bounded execution with monitoring. Customer-facing work has a clear review process, and uncertain cases reach a person.
+
+## Background
+
+**MBA** — Symbiosis University · **B.Sc. Information Technology** — Sikkim Manipal University  
+Growth Tribe: AI literacy, growth marketing and business analytics. Additional studies in machine learning, product design, applied Scrum, European studies and blockchain.
 
 **Languages:** English · Hindi · French (B1)
 
 ---
 
-This GitHub brings together my learning resources and digital product work. For a conversation about growth, GTM, or commercial strategy, [connect with me on LinkedIn](https://www.linkedin.com/in/pankajvnt/).
+For marketing operations leadership, GTM systems or AI automation work: [explore Wionsulting](https://www.wionsulting.com/) or [connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/).
