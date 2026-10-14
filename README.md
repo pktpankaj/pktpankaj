@@ -56,9 +56,18 @@ As the first marketing hire, I built the website and set up CRM, paid campaigns,
 
 ## Tools and technical work
 
-For CRM and customer communication, I work with HubSpot, Pipedrive, Customer.io, Brevo and Intercom. My acquisition and research tools include Apollo, Clay, Snitcher, Google Ads, Ahrefs and SEMrush. For measurement, I use GA4, Google Tag Manager and Looker Studio.
+| Area | Tools and technologies | How I use them |
+| --- | --- | --- |
+| **CRM and customer communication** | HubSpot, Pipedrive, Customer.io, Brevo, Intercom | Manage customer information, sales follow-up and email journeys. |
+| **Acquisition and research** | Apollo, Clay, Snitcher, Google Ads, Ahrefs, SEMrush | Research companies, enrich contacts, run campaigns and improve search visibility. |
+| **Tracking and reporting** | GA4, Google Tag Manager, Looker Studio | Track website activity and bring marketing performance into clear dashboards. |
+| **AI models and APIs** | ChatGPT, Claude, OpenAI API, Anthropic API | Support research, writing and tasks that need to interpret text or business information. |
+| **Workflow automation** | n8n, Make, Zapier | Connect tools and automate repeatable steps across marketing and operations. |
+| **AI agents and tool connections** | MCP, LangGraph, LlamaIndex | Connect AI to business tools and organise tasks involving several steps or information sources. |
+| **Data and document search** | Supabase, pgvector, Pinecone | Store application data and find relevant information across documents. |
+| **Testing and monitoring** | Langfuse | Review AI outputs and monitor quality, usage and cost. |
 
-My AI and automation work involves ChatGPT, Claude, OpenAI and Anthropic APIs, n8n, Make and Zapier. Depending on the application, I work with MCP for tool connections, LangGraph and LlamaIndex for agent and retrieval workflows, Supabase and vector search tools such as pgvector and Pinecone. Langfuse supports evaluation and monitoring. I choose the tools around the task and the systems the team already uses.
+I choose tools around the task and the systems the team already uses.
 
 ## Education and languages
 
