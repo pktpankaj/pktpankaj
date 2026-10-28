@@ -32,7 +32,7 @@ I am most useful where these disciplines meet. I can move from a business proble
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Intelligent Systems
+### AI & Intelligent Systems
 
 - Applied LLM architecture
 - AI agents and tool-driven workflows
@@ -47,7 +47,7 @@ I am most useful where these disciplines meet. I can move from a business proble
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Product & Platform Engineering
+### Product & Platform Engineering
 
 - Laravel / PHP applications
 - Relational data architecture
@@ -64,7 +64,7 @@ I am most useful where these disciplines meet. I can move from a business proble
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 Automation & Operations
+### Automation & Operations
 
 - Workflow engines
 - Signals → rules → actions
@@ -79,7 +79,7 @@ I am most useful where these disciplines meet. I can move from a business proble
 </td>
 <td width="50%" valign="top">
 
-### 📈 Growth Engineering
+### Growth Engineering
 
 - GTM systems
 - Product-led growth
@@ -100,7 +100,7 @@ I am most useful where these disciplines meet. I can move from a business proble
 
 ## Selected systems & product work
 
-### 🌍 AI-native travel platform
+### AI-native travel platform
 
 A multi-product travel technology platform built around a persistent traveller relationship rather than a collection of disconnected booking pages.
 
@@ -134,7 +134,7 @@ A central design principle is that **AI can interpret and assist without becomin
 
 ---
 
-### 🧠 AI growth operating system
+### AI growth operating system
 
 A growth platform designed to turn business context, market data and connected systems into practical work rather than isolated AI prompts.
 
@@ -159,7 +159,7 @@ The underlying principle is simple: **OpenAI is one component of the system, not
 
 ---
 
-### 🔐 Applied AI with governance
+### Applied AI with governance
 
 I am particularly interested in AI systems where reliability matters more than generating impressive text.
 
