@@ -4,7 +4,7 @@
 
 ### AI Product & Technology Leadership
 
-**Product architecture · Intelligent systems · Growth engineering · Commercial scale**
+**Product architecture · Intelligent systems · Growth engineering · Commercial strategy**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e4646?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajvnt/)
 [![AI Systems](https://img.shields.io/badge/AI_Systems-1e4646?style=for-the-badge)](https://github.com/pktpankaj/AI)
@@ -19,25 +19,25 @@
 
 ### Executive focus
 
-**AI Products**  
+**AI & Intelligent Products**  
 Applied AI, agents, governance, decision systems
 
-**Technology**  
-Architecture, platforms, APIs, security, delivery
+**Product & Technology**  
+Architecture, platforms, integrations, security, delivery
 
-**Growth**  
-GTM systems, acquisition, lifecycle, revenue
+**Growth & Commercial Systems**  
+GTM, lifecycle, distribution, revenue operations
 
 </td>
 <td width="66%" valign="top">
 
-### Operating at the intersection of technology and growth
+### Building across product, technology and growth
 
-I build and shape products where **software architecture, AI, product strategy and commercial execution** need to work as one system.
+I work where **product strategy, software architecture, AI and commercial execution** need to operate as one system.
 
-My background spans **15 years across growth, GTM, product and technology**, with hands-on work extending into full-stack development, AI-assisted engineering, workflow design, data models, integrations, production operations and technical decision-making.
+My experience spans **15 years across growth, GTM, product and technology**, with hands-on work in full-stack development, AI-assisted engineering, workflow architecture, data models, integrations, production operations and technical decision-making.
 
-**The advantage:** commercial depth without losing technical depth.
+The perspective is deliberately broad: understand the market, define the product, design the system, build the operating layer and create the conditions for adoption and scale.
 
 </td>
 </tr>
@@ -45,65 +45,56 @@ My background spans **15 years across growth, GTM, product and technology**, wit
 
 ---
 
-## Portfolio at a glance
+## Leadership scope
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" valign="top">
 
-### 15+
-**Years across technology, growth and GTM**
+### Product
 
-</td>
-<td width="25%" align="center">
-
-### €5M+
-**Revenue scale supported from early-stage foundations**
-
-</td>
-<td width="25%" align="center">
-
-### 10×
-**Organic growth achieved**
+Product strategy  
+Platform design  
+Roadmaps  
+User journeys  
+Commercial models  
+Product operations
 
 </td>
-<td width="25%" align="center">
+<td width="25%" valign="top">
 
-### 6% → 23%
-**Conversion improvement**
+### Technology
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Technology leadership
-
-- Product and platform architecture
-- Applied AI and agent systems
-- Laravel / PHP application development
-- Data models and workflow engines
-- API and OAuth integrations
-- Permissions, privacy and security boundaries
-- Multilingual product architecture
-- Production deployment, rollback and recovery
+System architecture  
+Application engineering  
+Data models  
+APIs and integrations  
+Security boundaries  
+Production delivery
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### Commercial leadership
+### Intelligence
 
-- GTM architecture
-- Demand and pipeline systems
-- Product positioning and launches
-- Pricing and packaging
-- Lifecycle and CRM infrastructure
-- International growth
-- Product-led growth
-- Analytics and revenue operations
+Applied AI  
+Agent systems  
+Automation  
+Decision support  
+Document intelligence  
+AI governance
+
+</td>
+<td width="25%" valign="top">
+
+### Growth
+
+GTM architecture  
+Distribution  
+Lifecycle systems  
+International growth  
+Revenue operations  
+Analytics
 
 </td>
 </tr>
@@ -171,7 +162,7 @@ AI is one component of the system, not the system itself.
 
 ---
 
-## AI systems I design
+## Intelligent systems
 
 <table>
 <tr>
@@ -181,36 +172,36 @@ AI is one component of the system, not the system itself.
 
 `Signals → Rules → AI → Tools → Actions`
 
-- monitoring agents
-- research agents
-- planning agents
-- decision support
-- task orchestration
-- scheduled intelligence
+Monitoring  
+Research  
+Planning  
+Decision support  
+Task orchestration  
+Scheduled intelligence
 
 </td>
 <td width="33%" valign="top">
 
 ### Controlled intelligence
 
-- structured outputs
-- source provenance
-- confidence boundaries
-- deterministic checks
-- human approval
-- graceful degradation
+Structured outputs  
+Source provenance  
+Confidence boundaries  
+Deterministic checks  
+Human approval  
+Graceful degradation
 
 </td>
 <td width="33%" valign="top">
 
 ### Operational AI
 
-- document intelligence
-- translation workflows
-- content intelligence
-- AI search visibility
-- workflow automation
-- review and escalation systems
+Document intelligence  
+Translation workflows  
+Content intelligence  
+AI search visibility  
+Workflow automation  
+Review and escalation
 
 </td>
 </tr>
@@ -224,9 +215,11 @@ AI is one component of the system, not the system itself.
 <tr>
 <td width="40%" valign="top">
 
-### I do not design AI as a black box
+### Intelligence needs structure
 
-AI should interpret, assist and accelerate. It should not silently become the source of truth for consequential workflows.
+AI should interpret, assist and accelerate without silently becoming the authoritative source for consequential workflows.
+
+Systems should preserve provenance, permissions, review boundaries and recovery paths while keeping intelligence useful to the person or process it serves.
 
 </td>
 <td width="60%" valign="top">
@@ -251,7 +244,7 @@ Action → Audit → Measurement
 
 ---
 
-## Technical depth
+## Technical operating depth
 
 <table>
 <tr>
@@ -278,8 +271,7 @@ LLM workflows
 Agent systems  
 Structured outputs  
 Document intelligence  
-Make  
-Zapier
+Workflow automation
 
 </td>
 <td width="25%" valign="top">
@@ -289,10 +281,10 @@ Zapier
 REST APIs  
 OAuth  
 SQL  
-GA4  
-Search Console  
+Analytics  
+Search data  
 CRM integrations  
-Analytics pipelines
+Provider adapters
 
 </td>
 <td width="25%" valign="top">
@@ -314,37 +306,54 @@ Production debugging
 
 ---
 
-## Commercial outcomes behind the technology
+## Commercial perspective
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Revenue
+### Market and GTM
 
-Helped scale a business from early commercial foundations to **€5M+ annual revenue**.
-
-</td>
-<td width="33%" valign="top">
-
-### Acquisition
-
-Delivered **10× organic growth** and built multilingual acquisition across international markets.
+Positioning  
+Segmentation  
+Pricing and packaging  
+Product launches  
+International expansion  
+Partnerships
 
 </td>
 <td width="33%" valign="top">
 
-### Conversion
+### Growth systems
 
-Improved conversion from approximately **6% to 23%**, while exceeding lead and sales-opportunity targets.
+Acquisition architecture  
+Product-led growth  
+Lifecycle  
+CRM infrastructure  
+SEO / AEO / GEO  
+Experimentation
+
+</td>
+<td width="33%" valign="top">
+
+### Operating model
+
+Cross-functional execution  
+Sales enablement  
+Customer adoption  
+Analytics  
+Revenue operations  
+Automation
 
 </td>
 </tr>
 </table>
 
+Technology decisions become more useful when they account for how a product will be **positioned, discovered, adopted, operated and scaled**. That commercial perspective is part of how I approach architecture and product development.
+
 ---
 
-## Built across different product environments
+## Product environments
 
 <div align="center">
 
@@ -354,21 +363,23 @@ Improved conversion from approximately **6% to 23%**, while exceeding lead and s
 
 ---
 
-## Education and technical foundation
+## Education and continued learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Formal education
+### Formal foundation
 
 **B.Sc. Information Technology / Computer Science**  
 **MBA / Business Administration & Marketing**
 
+A combination that reflects how I work today: technology with commercial context.
+
 </td>
 <td width="50%" valign="top">
 
-### Continued technical learning
+### Continued learning
 
 Machine Learning  
 AI Literacy  
@@ -391,7 +402,7 @@ Business Analytics
 
 I write about **AI infrastructure, trustworthy AI, human judgement, growth systems and the limits of automated decision-making**.
 
-My interest is less about AI novelty and more about how intelligent systems become useful, governable and commercially viable.
+The recurring question is how intelligent systems become useful, governable and commercially relevant without losing human accountability.
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -406,9 +417,9 @@ My interest is less about AI novelty and more about how intelligent systems beco
 
 <div align="center">
 
-### Product strategy → Architecture → Intelligent systems → Adoption → Revenue
+### Product strategy → Architecture → Intelligent systems → Adoption → Scale
 
-**I build where technology, product and commercial execution meet.**
+**Building across technology, product and commercial execution.**
 
 [LinkedIn](https://www.linkedin.com/in/pankajvnt/) · [AI Systems](https://github.com/pktpankaj/AI)
 
