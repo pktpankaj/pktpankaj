@@ -7,7 +7,6 @@
 **Product architecture · Intelligent systems · Growth engineering · Commercial scale**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e4646?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajvnt/)
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-1e4646?style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/pankajvnt)
 [![AI Systems](https://img.shields.io/badge/AI_Systems-1e4646?style=for-the-badge)](https://github.com/pktpankaj/AI)
 
 </div>
@@ -411,6 +410,6 @@ My interest is less about AI novelty and more about how intelligent systems beco
 
 **I build where technology, product and commercial execution meet.**
 
-[LinkedIn](https://www.linkedin.com/in/pankajvnt/) · [AI Systems](https://github.com/pktpankaj/AI) · [HackerNoon](https://hackernoon.com/u/pankajvnt)
+[LinkedIn](https://www.linkedin.com/in/pankajvnt/) · [AI Systems](https://github.com/pktpankaj/AI)
 
 </div>
